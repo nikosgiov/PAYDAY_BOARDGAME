@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PAYDAY_CSD4613:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PAYDAY_CSD4613_jar</output-path>
+    <root id="archive" name="PAYDAY_CSD4613.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="PAYDAY_CSD4613" />
+    </root>
+  </artifact>
+</component>
